@@ -1,0 +1,21 @@
+{
+  "name": "pomodoro-app",
+  "version": "1.0.0",
+  "description": "A pomodoro timer application built with JavaScript Vanilla",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx browser-sync start -sw"
+  },
+  "keywords": [
+    "pomodoro",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": "Emanuel Navarro",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
